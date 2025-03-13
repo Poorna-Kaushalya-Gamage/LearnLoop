@@ -1,2 +1,4 @@
 # LearnLoop
-The learning platform, developed using Spring Boot, includes a user-friendly interface, multimedia-rich posts, and real-time notifications, bridging learners and skill-sharers across various domains, utilizing Spring's robust REST API backend.
+In a world where learning is increasingly community-centric and self-paced, the need for a digital ecosystem that encourages both skill-sharing and personal growth has never been greater. As part of the IT3030 – Programming Applications and Frameworks (PAF) module at SLIIT, our team is undertaking the development of a comprehensive Skill-Sharing & Learning Platform—a modern web application that empowers individuals to learn, teach, engage, and grow together through shared knowledge and experiences.
+
+The solution is built using Java Spring Boot for the backend RESTful API and ReactJS for the frontend interface, with OAuth 2.0-based authentication to ensure secure and seamless login via social media platforms. The platform focuses not just on functionality, but also on creating a user-friendly, interactive, and visually appealing environment that encourages participation and lifelong learning.
